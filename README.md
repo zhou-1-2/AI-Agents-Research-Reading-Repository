@@ -6,7 +6,7 @@ A structured workspace for critical reading, evidence tracking, and research-que
 
 The repository covers eleven connected areas, with **Agent Evaluation & Reliability** as the primary focus, **Formal Methods for Agents** as a distinguishing perspective, and **Agentic Recommender Systems** as an application thread. The aim is to connect architectures and learning methods to measurable behavior, explicit assumptions, and reproducible evaluation.
 
-This is an initial research scaffold. No papers have been indexed or reviewed, and no experiments or research results are claimed.
+Four papers have literature reading notes. No benchmark experiments or reproduced results are claimed.
 
 ## Navigation
 
@@ -42,3 +42,10 @@ This is an initial research scaffold. No papers have been indexed or reviewed, a
 ## Evidence standards
 
 Use primary sources. Record limitations, assumptions, evaluation settings, and negative results. Separate proposed work from completed work and reported results from reproduced results. Cross-list papers when useful without duplicating notes.
+
+## Paper reading notes
+
+- P001: [τ-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains](topics/evaluation-and-reliability/paper-reading-τbench.md)
+- P002: [τ-Rec: A Verifiable Benchmark for Agentic Recommender Systems](topics/evaluation-and-reliability/paper-reading-τRec.md)
+- P003: [OSWorld2.0: Benchmarking Computer Use Agents on Long-Horizon Real-World Tasks](topics/evaluation-and-reliability/paper-reading-OSWorld2.0.md)
+- P004: [ReAct: Synergizing Reasoning and Acting in Language Models](topics/reasoning-and-planning/paper-reading-ReAct.md)

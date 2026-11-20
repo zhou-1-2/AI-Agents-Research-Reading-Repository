@@ -15,10 +15,15 @@ Tool selection, API execution, browser interaction, feedback, and environment mo
 
 ## Paper index
 
-No verified papers have been added yet. Add primary-source metadata to the [central index](../../PAPER_INDEX.md), then link reading notes here.
+Canonical notes are registered in the [central index](../../PAPER_INDEX.md).
 
 | Paper | Year | Reading note | Status | Relevance |
 | --- | --- | --- | --- | --- |
+
+| P001: τ-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains | 2024 | [Note](../evaluation-and-reliability/paper-reading-τbench.md) | reviewed | evaluation-and-reliability |
+| P002: τ-Rec: A Verifiable Benchmark for Agentic Recommender Systems | 2026 | [Note](../evaluation-and-reliability/paper-reading-τRec.md) | reviewed | evaluation-and-reliability |
+| P003: OSWorld2.0: Benchmarking Computer Use Agents on Long-Horizon Real-World Tasks | 2026 | [Note](../evaluation-and-reliability/paper-reading-OSWorld2.0.md) | reviewed | evaluation-and-reliability |
+| P004: ReAct: Synergizing Reasoning and Acting in Language Models | 2022 preprint | [Note](../reasoning-and-planning/paper-reading-ReAct.md) | reviewed | reasoning-and-planning |
 
 ## Research connections
 

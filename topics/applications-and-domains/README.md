@@ -15,10 +15,12 @@ Agentic Recommender Systems, software engineering, research assistants, and doma
 
 ## Paper index
 
-No verified papers have been added yet. Add primary-source metadata to the [central index](../../PAPER_INDEX.md), then link reading notes here.
+Canonical notes are registered in the [central index](../../PAPER_INDEX.md).
 
 | Paper | Year | Reading note | Status | Relevance |
 | --- | --- | --- | --- | --- |
+
+| P002: τ-Rec: A Verifiable Benchmark for Agentic Recommender Systems | 2026 | [Note](../evaluation-and-reliability/paper-reading-τRec.md) | reviewed | evaluation-and-reliability |
 
 ## Research connections
 

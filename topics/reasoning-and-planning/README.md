@@ -15,10 +15,12 @@ Task decomposition, search, reflection, decision making, and long-horizon planni
 
 ## Paper index
 
-No verified papers have been added yet. Add primary-source metadata to the [central index](../../PAPER_INDEX.md), then link reading notes here.
+Canonical notes are registered in the [central index](../../PAPER_INDEX.md).
 
 | Paper | Year | Reading note | Status | Relevance |
 | --- | --- | --- | --- | --- |
+
+| P004: ReAct: Synergizing Reasoning and Acting in Language Models | 2022 preprint | [Note](../reasoning-and-planning/paper-reading-ReAct.md) | reviewed | reasoning-and-planning |
 
 ## Research connections
 
